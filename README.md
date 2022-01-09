@@ -1,4 +1,10 @@
 # microservices-common
 Package Files Utils Microservices Courses
 
-RUN: composer require alissoncout/microservices-common AND ENJOY!
+RUN:
+
+```bash
+composer require alissoncout/microservices-common 
+```
+
+AND ENJOY!
