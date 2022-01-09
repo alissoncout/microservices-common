@@ -1,0 +1,19 @@
+{
+    "name": "alissoncout/microservices-common",
+    "description": "Package Files Utils Microservices Courses",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Alissoncout\\MicroservicesCommon\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alisson Couto",
+            "email": "alissoncoutoads@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
